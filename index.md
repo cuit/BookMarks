@@ -1,1 +1,1 @@
-[测试](http://www.baidu.com)
+[测试](http://www.baidu.com){:target="_blank"} 
