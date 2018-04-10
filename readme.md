@@ -15,3 +15,6 @@
 - [消息重试_常见使用方式说明_消息队列 RocketMQ_消息队列 MQ-阿里云](https://help.aliyun.com/document_detail/43490.html)
 - [RabbitMQ - Getting started with RabbitMQ](http://www.rabbitmq.com/getstarted.html)
 - [springboot学习笔记-6 springboot整合RabbitMQ - hlhdidi - 博客园](https://www.cnblogs.com/hlhdidi/p/6535677.html)
+## 数据库
+### MySQL
+- [mysql命令参数详解](https://blog.csdn.net/embedded_sky/article/details/41966037)
