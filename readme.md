@@ -4,11 +4,11 @@
 - [使用Redis作为SpringBoot项目数据缓存 - 简书](https://www.jianshu.com/p/5a70b13a4fa7)
 - [jdk8 Optional 的正确姿势 - CSDN博客](https://blog.csdn.net/hj7jay/article/details/52459334)
 - [Java transient关键字使用小记](http://www.importnew.com/21517.html)
-### dubbo
+#### dubbo
 - [Dubbo标签学习 - CSDN博客](http://blog.csdn.net/god8816/article/details/54695246)
 - [dubbo中标签属性的的学习 - CSDN博客](http://blog.csdn.net/airenone/article/details/60965508)
 - [DUBBO配置规则详解 - CSDN博客](http://blog.csdn.net/jdream314/article/details/44039753)
-### MQ
+#### MQ
 - [Springboot整合RabbitMQ](http://blog.csdn.net/forezp/article/details/71023692)
 - [RabbitMQ的应用场景以及基本原理介绍 - CSDN博客](http://blog.csdn.net/whoamiyang/article/details/54954780)
 - [Getting Started · Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
@@ -16,5 +16,7 @@
 - [RabbitMQ - Getting started with RabbitMQ](http://www.rabbitmq.com/getstarted.html)
 - [springboot学习笔记-6 springboot整合RabbitMQ - hlhdidi - 博客园](https://www.cnblogs.com/hlhdidi/p/6535677.html)
 ## 数据库
-### MySQL
+#### MySQL
 - [mysql命令参数详解](https://blog.csdn.net/embedded_sky/article/details/41966037)
+## Linux
+- [grep命令](https://man.linuxde.net/grep)
