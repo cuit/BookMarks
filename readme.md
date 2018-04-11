@@ -20,3 +20,4 @@
 - [mysql命令参数详解](https://blog.csdn.net/embedded_sky/article/details/41966037)
 ## Linux
 - [grep命令](https://man.linuxde.net/grep)
+- [sed命令](https://blog.csdn.net/zhushuai1221/article/details/53114178)
