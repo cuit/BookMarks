@@ -23,3 +23,6 @@
 - [sed命令](https://blog.csdn.net/zhushuai1221/article/details/53114178)
 ## 前端
 - [Thymeleaf Layout Dialect](https://ultraq.github.io/thymeleaf-layout-dialect/)
+#### 插件
+- [WebUploader](http://fex.baidu.com/webuploader/getting-started.html)
+- [uploadify](http://www.uploadify.com/demos/)
