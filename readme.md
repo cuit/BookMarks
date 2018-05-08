@@ -5,6 +5,7 @@
 - [jdk8 Optional 的正确姿势 - CSDN博客](https://blog.csdn.net/hj7jay/article/details/52459334)
 - [Java transient关键字使用小记](http://www.importnew.com/21517.html)
 - [Java时间处理类](http://www.joda.org/joda-time/)
+- [高性能JSON框架之FastJson的简单使用](https://segmentfault.com/a/1190000011212806)
 #### dubbo
 - [Dubbo标签学习 - CSDN博客](http://blog.csdn.net/god8816/article/details/54695246)
 - [dubbo中标签属性的的学习 - CSDN博客](http://blog.csdn.net/airenone/article/details/60965508)
