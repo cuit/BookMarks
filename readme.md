@@ -32,3 +32,12 @@
 - [uploadify](http://www.uploadify.com/demos/)
 - [下拉框插件](https://faysunshine.com/layui/template/index.html?0-3)
 - [弹出框插件](http://layer.layui.com/)
+## GIT
+#### git blame file路径         显示指定文件是什么人在什么时间修改过
+#### git diff                  显示暂存区和工作区的代码差异
+#### git checkout -b 分支名     新建一个分支，并切换到指定分支
+#### git checkout 分支名        切换到指定分支
+#### git checkout -            切换到上一个分支
+#### git add .                 添加当前目录的所有文件到暂存区
+#### git commit -m "信息"       提交暂存区到仓库区
+#### git push                  提交仓库去代码到你线上
