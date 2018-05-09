@@ -30,3 +30,5 @@
 #### 插件
 - [WebUploader](http://fex.baidu.com/webuploader/getting-started.html)
 - [uploadify](http://www.uploadify.com/demos/)
+- [下拉框插件](https://faysunshine.com/layui/template/index.html?0-3)
+- [弹出框插件](http://layer.layui.com/)
