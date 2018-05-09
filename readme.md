@@ -41,3 +41,8 @@
 #### git add .                 添加当前目录的所有文件到暂存区
 #### git commit -m "信息"       提交暂存区到仓库区
 #### git push                  提交仓库去代码到你线上
+#### git branch -a             显示所有分支包括本地和线上
+#### git branch --set-upstream [branch] [remote-branch] 建立追踪关系，在现有分支与指定的远程分支之间
+#### git merge 分支名           合并指定分支到当前分支
+#### git status                查看所有变更
+#### git checkout [路径]       恢复暂存区的所有文件到工作区
