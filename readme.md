@@ -23,6 +23,7 @@
 ## Linux
 ### 基本指令
 #### ctrl + r 在命令行搜索历史纪录
+#### zcat + file.gz 不解压查看.gz文件中的内容
 - [grep命令](https://man.linuxde.net/grep)
 - [sed命令](https://blog.csdn.net/zhushuai1221/article/details/53114178)
 ## 前端
