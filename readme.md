@@ -34,7 +34,8 @@
 - [下拉框插件](https://faysunshine.com/layui/template/index.html?0-3)
 - [弹出框插件](http://layer.layui.com/)
 - [iTerm命令行高亮着色插件](http://ohmyz.sh/)
-[idea插件: lombox]
+- [idea插件: lombox](https://www.projectlombok.org/setup/intellij)
+- [idea插件: MyBatis plugin, MyBatis Tools]
 ## GIT
 #### git blame file路径         显示指定文件是什么人在什么时间修改过
 #### git diff                  显示暂存区和工作区的代码差异
