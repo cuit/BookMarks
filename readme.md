@@ -27,6 +27,8 @@
 #### zcat + file.gz 不解压查看.gz文件中的内容
 - [grep命令](https://man.linuxde.net/grep)
 - [sed命令](https://blog.csdn.net/zhushuai1221/article/details/53114178)
+#### 向服务器上传下载命令(rz, sz)
+- [rz, sz](https://blog.csdn.net/u014242496/article/details/52540637/)
 ## 前端
 - [Thymeleaf Layout Dialect](https://ultraq.github.io/thymeleaf-layout-dialect/)
 #### 插件
