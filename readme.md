@@ -37,7 +37,7 @@
 - [下拉框插件](https://faysunshine.com/layui/template/index.html?0-3)
 - [弹出框插件](http://layer.layui.com/)
 - [jquery插件](http://www.htmleaf.com/)
-- [iTerm命令行高亮着色插件](http://ohmyz.sh/)
+- [iTerm命令行高亮着色插件](http://ohmyz.sh/) sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 - [idea插件: lombox](https://www.projectlombok.org/setup/intellij)
 - [idea插件: MyBatis plugin, MyBatis Tools]
 ## GIT
